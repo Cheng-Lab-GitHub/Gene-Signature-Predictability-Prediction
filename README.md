@@ -13,3 +13,5 @@ install.packages("randomForest")
 ```
 
 ## Run the code
+
+Open the code in Rstudio, follow the comments in the PPM.R
